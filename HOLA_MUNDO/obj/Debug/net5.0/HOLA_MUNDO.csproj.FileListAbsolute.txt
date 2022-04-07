@@ -1,0 +1,16 @@
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\bin\Debug\net5.0\HOLA_MUNDO.exe
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\bin\Debug\net5.0\HOLA_MUNDO.deps.json
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\bin\Debug\net5.0\HOLA_MUNDO.runtimeconfig.json
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\bin\Debug\net5.0\HOLA_MUNDO.runtimeconfig.dev.json
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\bin\Debug\net5.0\HOLA_MUNDO.dll
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\bin\Debug\net5.0\ref\HOLA_MUNDO.dll
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\bin\Debug\net5.0\HOLA_MUNDO.pdb
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\obj\Debug\net5.0\HOLA_MUNDO.csproj.AssemblyReference.cache
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\obj\Debug\net5.0\HOLA_MUNDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\obj\Debug\net5.0\HOLA_MUNDO.AssemblyInfoInputs.cache
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\obj\Debug\net5.0\HOLA_MUNDO.AssemblyInfo.cs
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\obj\Debug\net5.0\HOLA_MUNDO.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\obj\Debug\net5.0\HOLA_MUNDO.dll
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\obj\Debug\net5.0\ref\HOLA_MUNDO.dll
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\obj\Debug\net5.0\HOLA_MUNDO.pdb
+C:\Users\ludmi\source\repos\Clase_01\HOLA_MUNDO\obj\Debug\net5.0\HOLA_MUNDO.genruntimeconfig.cache

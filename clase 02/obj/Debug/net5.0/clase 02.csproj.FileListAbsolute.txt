@@ -1,0 +1,16 @@
+C:\Users\ludmi\source\repos\Clase_01\clase 02\bin\Debug\net5.0\clase 02.exe
+C:\Users\ludmi\source\repos\Clase_01\clase 02\bin\Debug\net5.0\clase 02.deps.json
+C:\Users\ludmi\source\repos\Clase_01\clase 02\bin\Debug\net5.0\clase 02.runtimeconfig.json
+C:\Users\ludmi\source\repos\Clase_01\clase 02\bin\Debug\net5.0\clase 02.runtimeconfig.dev.json
+C:\Users\ludmi\source\repos\Clase_01\clase 02\bin\Debug\net5.0\clase 02.dll
+C:\Users\ludmi\source\repos\Clase_01\clase 02\bin\Debug\net5.0\ref\clase 02.dll
+C:\Users\ludmi\source\repos\Clase_01\clase 02\bin\Debug\net5.0\clase 02.pdb
+C:\Users\ludmi\source\repos\Clase_01\clase 02\obj\Debug\net5.0\clase 02.csproj.AssemblyReference.cache
+C:\Users\ludmi\source\repos\Clase_01\clase 02\obj\Debug\net5.0\clase 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\source\repos\Clase_01\clase 02\obj\Debug\net5.0\clase 02.AssemblyInfoInputs.cache
+C:\Users\ludmi\source\repos\Clase_01\clase 02\obj\Debug\net5.0\clase 02.AssemblyInfo.cs
+C:\Users\ludmi\source\repos\Clase_01\clase 02\obj\Debug\net5.0\clase 02.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\source\repos\Clase_01\clase 02\obj\Debug\net5.0\clase 02.dll
+C:\Users\ludmi\source\repos\Clase_01\clase 02\obj\Debug\net5.0\ref\clase 02.dll
+C:\Users\ludmi\source\repos\Clase_01\clase 02\obj\Debug\net5.0\clase 02.pdb
+C:\Users\ludmi\source\repos\Clase_01\clase 02\obj\Debug\net5.0\clase 02.genruntimeconfig.cache

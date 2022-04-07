@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VistaClase03/1.0.0": {
+        "dependencies": {
+          "EntidadesClase03": "1.0.0"
+        },
+        "runtime": {
+          "VistaClase03.dll": {}
+        }
+      },
+      "EntidadesClase03/1.0.0": {
+        "runtime": {
+          "EntidadesClase03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VistaClase03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesClase03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
